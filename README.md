@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <br clear="both">
-
+<!-- Introduction Section -->
 <h2 align="left">Hey 👋! My name is Simona and I'm a Data Analyst from Lithuania 🇱🇹</h2>
 
 ###
 
 <br clear="both">
-
+<!-- Contact Links -->
 <div align="left">
   <a href="https://www.linkedin.com/in/simona-asmonaite/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -36,49 +36,53 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
+<!-- About Me Section -->
 <h3 align="left">About Me:</h3>
 
-###
+<!-- ### -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDkzMWxsejczaWUxcTF6dGZudG85MDd3c2pxNXp6bWVxcXZ4aTFheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
 
-###
+<!-- ### -->
 
 <p align="left">🧬 Background in Medicine & Life Sciences<br>💻 Started career switch in 2023 – hello Data Analytics!<br>❤️ Love finding hidden treasures in data<br>📖🐱 Love physical books and animals<br>💡 Likes hackathons & ideation meet-ups (let’s connect!)<br>🕕 Freetime: learning Japanese and Dutch, reading, writing & learning, gaming, movies</p>
 
 ###
 
 <br clear="both">
-
+<!-- Tech Section -->
 <h3 align="left">TechStack:</h3>
 
-###
-
-<br clear="both">
-
+#### Data Storage and Management
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
+  <img src="https://img.shields.io/static/v1?label=BigQuery&message=Advanced&color=blue&style=for-the-badge&logo=googlecloud" alt="BigQuery: Advanced" />
+  <img src="https://img.shields.io/static/v1?label=MySQL&message=Intermediate&color=green&style=for-the-badge&logo=mysql" alt="MySQL: Intermediate" />
+  <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=Intermediate&color=green&style=for-the-badge&logo=postgresql" alt="PostgreSQL: Intermediate" />
+</div>
+
+#### Visualization Tools
+<div align="left">
+  <img src="https://img.shields.io/static/v1?label=PowerBI&message=Advanced&color=blue&style=for-the-badge&logo=powerbi" alt="PowerBI: Advanced" />
+  <img src="https://img.shields.io/static/v1?label=Tableau&message=Advanced&color=blue&style=for-the-badge&logo=tableau" alt="Tableau: Advanced" />
+  <img src="https://img.shields.io/static/v1?label=Looker%20Studio&message=Advanced&color=blue&style=for-the-badge&logo=googleanalytics" alt="Looker Studio: Advanced" />
+</div>
+
+#### Productivity Suites
+<div align="left">
+  <img src="https://img.shields.io/static/v1?label=Microsoft%20Office%20365&message=Advanced&color=blue&style=for-the-badge&logo=microsoftoffice" alt="Microsoft Office 365: Advanced" />
+  <img src="https://img.shields.io/static/v1?label=Google%20Suite&message=Advanced&color=blue&style=for-the-badge&logo=googlesheets" alt="Google Suite: Advanced" />
+</div>
+
+#### Programming and Tools
+<div align="left">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Intermediate&color=green&style=for-the-badge&logo=python" alt="Python: Intermediate" />
+  <img src="https://img.shields.io/static/v1?label=Scikit-learn&message=Intermediate&color=green&style=for-the-badge&logo=scikitlearn" alt="Scikit-learn: Intermediate" />
+  <img src="https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=Use%20Regularly&color=yellow&style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Use%20Regularly&color=yellow&style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/static/v1?label=Git&message=Beginner&color=orange&style=for-the-badge&logo=git" alt="Git: Beginner" />
+  <img src="https://img.shields.io/static/v1?label=Linux%20Bash&message=Beginner&color=orange&style=for-the-badge&logo=gnubash" alt="Linux Bash: Beginner" />
 </div>
 
 ###
@@ -107,4 +111,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
