@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="images/profile_banner.gif"></img>
+<img align="center" src="images/profile_banner.gif"/>
 
 <br clear="both">
 <!-- Introduction Section -->
-<h2 align="left">Hey 👋! My name is Simona and I'm a Data Analyst from Lithuania 🇱🇹</h2>
+<!-- <h2 align="left">Hey 👋! My name is Simona and I'm a Data Analyst from Lithuania 🇱🇹</h2>  -->
 
 ###
 
