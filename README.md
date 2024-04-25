@@ -58,7 +58,10 @@ Here are some ideas to get you started:
   <br>🔥 Committed to lifelong learning, I continuously seek out new knowledge and skills, eager to see where my next learning curve will lead.
 </p>
 -->
-👉 Looking for a sample dataset? Check out my [Kaggle](https://www.kaggle.com/simonaasm/datasets).
+
+<p align="left">
+  👉 Looking for a sample dataset? Check out my <a href="https://www.kaggle.com/simonaasm/datasets" target="_blank">Kaggle</a>.
+</p>
 
 <!-- Tech Section -->
 <h3 align="left">TechStack:</h3>
