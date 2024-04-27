@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="633px" height="158px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lvbnA3ZXlkMXdsaGM4MzQ4NDBzZWZ6eHdudXpnamJwNXZsZGN3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kxnzVIeM9AYvQewpAu/giphy-downsized-large.gif" alt="Centered Image">
+  <img width="633px" height="158px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhdGZlMnQ1MXIybmx6a2Z5dmc1cHlmZHBxNjgwamJsYzZmMjlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWp0xMXPQnqxQNlIi5/giphy-downsized-large.gif" alt="Centered Image">
 </div>
 
 <br clear="both">
