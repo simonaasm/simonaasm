@@ -13,19 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 
-
 <div align="center">
-  <img width="633px" height="158px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhdGZlMnQ1MXIybmx6a2Z5dmc1cHlmZHBxNjgwamJsYzZmMjlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWp0xMXPQnqxQNlIi5/giphy-downsized-large.gif" />
+  <img src="images/profile_banner_v2.gif" width="633" height="158" alt="Profile Banner">
 </div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/uWp0xMXPQnqxQNlIi5/giphy.gif" width="633px" height="158px" />
-</div>
-
-
-
 
 <br clear="both">
 <!-- Introduction Section -->
@@ -39,9 +29,12 @@ Here are some ideas to get you started:
   <a href="https://discord.gg/Sdb22bgkjm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="asmonaite.s@gmail.com" target="_blank">
+  <a href="mailto:asmonaite.s@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://www.kaggle.com/simonaasm" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo" />
+</a>
 </div>
 
 <!-- About Me Section -->
