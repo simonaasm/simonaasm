@@ -13,9 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 
+
 <div align="center">
-  <img width="633px" height="158px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhdGZlMnQ1MXIybmx6a2Z5dmc1cHlmZHBxNjgwamJsYzZmMjlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWp0xMXPQnqxQNlIi5/giphy-downsized-large.gif" alt="Centered Image">
+  <img width="633px" height="158px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFhdGZlMnQ1MXIybmx6a2Z5dmc1cHlmZHBxNjgwamJsYzZmMjlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWp0xMXPQnqxQNlIi5/giphy-downsized-large.gif" />
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/uWp0xMXPQnqxQNlIi5/giphy.gif" width="633px" height="158px" />
+</div>
+
+
+
 
 <br clear="both">
 <!-- Introduction Section -->
@@ -35,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- About Me Section -->
-<h3 align="left">About Me:</h3>
+<h3 align="left">:raising_hand: About Me:</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDkzMWxsejczaWUxcTF6dGZudG85MDd3c2pxNXp6bWVxcXZ4aTFheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
 
@@ -64,7 +74,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Tech Section -->
-<h3 align="left">TechStack:</h3>
+<h3 align="left">:wrench: TechStack:</h3>
 
 #### Data Storage and Management
 <div align="left">
